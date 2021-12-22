@@ -1,4 +1,4 @@
-package com.algosmart.algosmartjforex;
+package com.innodiff.algotrade;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
